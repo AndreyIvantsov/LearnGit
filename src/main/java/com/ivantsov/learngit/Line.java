@@ -10,5 +10,7 @@ package com.ivantsov.learngit;
  * @author tetra
  */
 public class Line {
-    
+    public static void draw() {
+        System.out.println("-------------");
+    }
 }
