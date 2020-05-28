@@ -11,6 +11,6 @@ package com.ivantsov.learngit;
  */
 public class Line {
     public static void draw() {
-        System.out.println("-------------");
+        System.out.println("*-------------*");
     }
 }
